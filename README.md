@@ -15,7 +15,7 @@
 
 
 
-### (Update The system)
+### (Update The System)
 
 ````bash
 apt update
