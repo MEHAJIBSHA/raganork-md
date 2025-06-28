@@ -15,6 +15,17 @@
 
 
 
+### (Update The system)
+
+````bash
+apt update
+apt upgrade -y
+pkg update 
+pkg upgrade -y
+pkg install python
+pkg install python3
+pkg install git
+````
 
 
 ### (Install Termux)
